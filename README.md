@@ -1,4 +1,4 @@
-# otp_verification
+# OTP_verification
 
 A new Flutter project.
 
